@@ -1,0 +1,2 @@
+# STestFarm
+Opens STF
